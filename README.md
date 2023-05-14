@@ -1,15 +1,15 @@
 <h1 align="center">Hey there folks 👋, I'm Shubh Gupta.</h1>
-<h3 align="center">All things Dev here. WebDev, AppDev, Frontend, Backend, you name it!</h3>
+<h3 align="center">Development for Innovation!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgupta0988&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgupta0988" /> </p>
 
 - 🔭 I’m currently working on [Family Financial Planning](https://github.com/shubhgupta0988/Family-Financial-PLanning)
 
-- 👯 I’m looking to collaborate on **Machine Intelligent application and Web Development projects.**
+- 👯 I’m looking to collaborate on **Machine Learning, Application and Web Development Projects.**
 
-- 📫 How to reach me **shubhgupta@spit.ac.in**
+- 📫 How to reach me **shubhgupta0988@gmail.com**
 
-- ⚡ Fun fact **Giraffes have black tongues.**
+- ⚡ What makes me, me **An intricate tapestry of unique experiences, passions, and perspectives, shaping a one-of-a-kind individual.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
