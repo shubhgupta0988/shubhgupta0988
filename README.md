@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Family Financial Planning](https://github.com/shubhgupta0988/Family-Financial-PLanning)
 
-- 👯 I’m looking to collaborate on **Full Stack Web or App development projects.**
+- 👯 I’m looking to collaborate on **Machine Intelligent application and Web Development projects.**
 
 - 📫 How to reach me **shubhgupta@spit.ac.in**
 
