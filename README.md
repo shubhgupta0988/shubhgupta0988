@@ -1,9 +1,9 @@
 <h1 align="center">Hey there folks 👋, I'm Shubh Gupta.</h1>
 <h3 align="center">All things Dev here. WebDev, AppDev, Frontend, Backend, you name it!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarekarsanika&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarekarsanika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgupta0988&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgupta0988" /> </p>
 
-- 🔭 I’m currently working on [Family Financial Planning](https://github.com/tiwarekarsanika/Family-Financial-PLanning)
+- 🔭 I’m currently working on [Family Financial Planning](https://github.com/shubhgupta0988/Family-Financial-PLanning)
 
 - 👯 I’m looking to collaborate on **Full Stack Web or App development projects.**
 
