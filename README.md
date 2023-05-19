@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Family Financial Planning](https://github.com/shubhgupta0988/Family-Financial-PLanning)
 
-- 👯 I’m looking to collaborate on **Machine Learning, Application and Web Development Projects.**
+- 👯 I’m looking to collaborate on **Web Development, Application and Machine Learning Projects.**
 
 - 📫 How to reach me **shubhgupta0988@gmail.com**
 
